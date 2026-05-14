@@ -348,7 +348,7 @@ wiki/entities/Sway.md
 
 ## Repository Layout
 
-建议开源仓库结构：
+开源仓库结构：
 
 ```text
 hermes-knowledge-skills/
@@ -377,4 +377,4 @@ hermes-knowledge-skills/
 
 ## License
 
-建议使用 MIT License，便于别人复制、修改和二次分发。
+使用 MIT License，便于别人复制、修改和二次分发。
