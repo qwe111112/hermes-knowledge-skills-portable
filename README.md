@@ -2,7 +2,7 @@
 
 把网页剪藏、视频字幕、PDF 转 Markdown 和个人笔记，编译成可长期维护的 Obsidian 个人知识库。
 
-这个项目提供两个 Hermes Agent skills：
+这个项目提供三个 Hermes Agent skills：
 
 - `markdown-source-compiler`：把混乱 Markdown 整理成规范 raw Markdown。
 - `wiki-maintainer`：把规范 raw Markdown 沉淀成 Obsidian Wiki 页面。
