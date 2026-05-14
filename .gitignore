@@ -1,0 +1,21 @@
+# Local Obsidian vault state
+.obsidian/
+
+# Local test workspace
+inbox/
+raw/
+wiki/
+scratch/
+assets/
+search/
+schema/
+hermes/
+hermes-skills/
+
+# Generated archives
+*.zip
+
+# OS/editor noise
+Thumbs.db
+.DS_Store
+
