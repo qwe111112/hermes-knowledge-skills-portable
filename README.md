@@ -377,4 +377,4 @@ hermes-knowledge-skills/
 
 ## License
 
-使用 MIT License，便于别人复制、修改和二次分发。
+使用 MIT License.
